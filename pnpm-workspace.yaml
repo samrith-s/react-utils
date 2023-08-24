@@ -1,0 +1,6 @@
+packages:
+  - "docs"
+  - "packages/@helpers/*"
+  - "packages/core"
+  - "packages/hooks/*"
+  - "packages/components/*"

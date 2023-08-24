@@ -1,0 +1,26 @@
+{
+	"name": "react-utils",
+	"author": {
+		"name": "Samrith Shankar",
+		"email": "samrith.shankar@outlook.com"
+	},
+	"private": true,
+	"scripts": {
+		"build": "turbo run build",
+		"dev": "turbo run dev",
+		"lint": "turbo run lint",
+		"format": "prettier --write \"**/*.{ts,tsx,md}\""
+	},
+	"devDependencies": {
+		"@types/react": "^18.2.21",
+		"eslint": "^8.47.0",
+		"eslint-config-custom": "workspace:*",
+		"prettier": "^3.0.2",
+		"react": "^18.2.0",
+		"rollup": "^3.28.1",
+		"tsconfig": "workspace:*",
+		"turbo": "latest",
+		"typescript": "^5.2.2"
+	},
+	"packageManager": "pnpm@8.6.10"
+}

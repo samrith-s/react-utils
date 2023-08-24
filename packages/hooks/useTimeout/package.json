@@ -1,0 +1,39 @@
+{
+  "name": "@react-utils/use-timeout",
+  "description": "A set of ever-evolving hooks and components to help you write React apps better",
+  "version": "0.0.0",
+  "author": {
+    "name": "Samrith Shankar",
+    "email": "samrith.shankar@outlook.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samrith-s/react-utils/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/samrith-s/react-utils.git"
+  },
+  "peerDependencies": {
+    "react": ">=18.0.0"
+  },
+  "scripts": {
+    "dev": "echo 'Add dev script here'",
+    "build": "echo 'Add build script here'",
+    "test": "echo 'Add test script here'",
+    "lint": "echo 'Add lint script here'"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "hooks",
+    "components",
+    "utilities",
+    "utils",
+    "util",
+    "tools",
+    "toolbox",
+    "react-util",
+    "app"
+  ]
+}
